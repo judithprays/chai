@@ -1,0 +1,27 @@
+body, html{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	position: absolute;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#container{
+	padding: 0;
+	width: 900px;
+	margin: 0 auto;
+}
+
+h1{
+	text-transform: uppercase;
+	font-size: 36px;
+	line-height: 36px;
+}
+
+h2{
+	font-size: 18px;
+	line-height: 18px;
+	font-weight: normal;
+	margin-left: 18px;
+
+}

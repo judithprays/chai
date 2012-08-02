@@ -1,0 +1,50 @@
+/********* HEADER ***************/
+
+
+#header #content{
+	position: relative;
+	height: 540px;
+	margin-top: 360px;
+	margin-left: 720px;
+	width: 180px;
+}
+
+#header #background{
+	background: url("../images/watercolorchai/2.jpg") no-repeat; 
+	width: 900px;
+	height: px;
+	top: 0;
+	left: 0;
+	opacity: 0.36;
+	position: absolute;
+	z-index: 0px;
+}
+
+#nav{
+	position: fixed;
+	bottom: 0;
+	background: white;
+}
+
+#nav ul{
+	overflow: hidden;
+	list-style: none;
+	width: 540px;
+	margin-left: 540px;
+
+}
+
+#nav ul li{
+	width: auto;
+	margin: 18px;
+	float: left;
+	font-size: 18px;
+}
+
+a{
+	color: black;
+}
+
+a:hover {
+	color: green;
+}
